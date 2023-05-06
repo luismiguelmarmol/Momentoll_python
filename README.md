@@ -20,6 +20,6 @@
 ### Descripcion
 **Realizamos los ejercicios planteados por el profesor en la asignatura Nuevas Tecnologias**
 
-**Realizamos el ejercicio de los Shots se desarrollo en Shots.py**
+**Realizamos el ejercicio de los cocteles se desarrollo en main_coctel.py**
 
 **Realizamos el ejercicio de las Escuderias se desarrollo en main.py**
